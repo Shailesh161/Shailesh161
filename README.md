@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shailesh Gatkul.</h1>
 <h3 align="center">Computer Engineer from Pune,Maharashtra.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shailesh161" alt="shailesh161" /></a> </p>
 
 - 📫 How to reach me **shaileshgatkul2003@gmail.com**
 
