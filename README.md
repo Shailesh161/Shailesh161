@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Shailesh Gatkul</h1>
-<h3 align="center">Computer Engineer from Pune, Maharashtra | Passionate about IAM & SDET</h3>
+<h1 align="center"> Hi 👋, I'm Shailesh Gatkul</h1>
+<h3 align="center"> Computer Engineer from Pune, Maharashtra | Passionate about IAM & Cybersecurity</h3>
+<h3 align="center">Currently working at PTC (Product-based MNC) on a cloud-based PLM (Product lifecycle management) product – Pune, Maharashtra</h3>
+
 
 ---
 
@@ -15,8 +17,6 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=shailesh161&hide_total_contributions=true&hide_border=true&theme=highcontrast&ring=ff8c00&fire=ff8c00" alt="GitHub streak" />
 </p>
-
-
 
 
 ---
