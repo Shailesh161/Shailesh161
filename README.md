@@ -3,7 +3,7 @@
 
 
 - 📫 How to reach me **shaileshgatkul2003@gmail.com**
-Connect with me on LinkedIn 
+- 📫 Connect with me on LinkedIn 
 <a href="https://www.linkedin.com/in/shailesh-gatkul/" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shailesh-gatkul" height="30" width="40" />
 </a>
