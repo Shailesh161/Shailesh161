@@ -13,8 +13,9 @@
 ## 🔥 GitHub Activity Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=shailesh161&hide_border=true&theme=tokyonight&ring=ff8c00&fire=ff8c00&currStreakLabel=ff8c00&dates=ffffff&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&border=ffffff" alt="shailesh161 GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=shailesh161&hide_total_contributions=true&hide_border=true&theme=highcontrast&ring=ff8c00&fire=ff8c00" alt="GitHub streak" />
 </p>
+
 
 
 
