@@ -13,8 +13,9 @@
 ## 🔥 GitHub Activity Streak
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🔥%20Current%20Streak-1%20day-orange?style=flat-square" alt="GitHub Current Streak"/>
+  <img src="https://streak-stats.demolab.com?user=shailesh161&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=FFA500&fire=FFA500&currStreakLabel=FFA500" alt="shailesh161 GitHub streak" />
 </p>
+
 
 ---
 
